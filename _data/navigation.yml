@@ -1,27 +1,27 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/Jianchengz.github.io/#about-me"
+    url: "#about-me"
 
   - title: "Publications"
-    url: "/Jianchengz.github.io/#-Publications"
+    url: "#-Publications"
 
   - title: "Services"
-    url: "/Jianchengz.github.io/#-Services"
+    url: "#-Services"
 
   - title: "Talks"
-    url: "/Jianchengz.github.io/#-Talks"
+    url: "#-Talks"
 
   - title: "Awards"
-    url: "/Jianchengz.github.io/#-Awards"
+    url: "#-Awards"
 
   - title: "Teaching"
-    url: "/Jianchengz.github.io/#-Teaching"
+    url: "#-Teaching"
 
   - title: "Educations"
-    url: "/Jianchengz.github.io/#-Educations"
-    
+    url: "#-Educations"
+
   - title: "Others"
-    url: "/Jianchengz.github.io/#-Others"
+    url: "#-Others"
 
   

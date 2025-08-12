@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
+I am a PhD student in the ECE department at UC Riverside, supervised by <a href="https://yinglunz.com/" target="_blue">Dr. Yinglun Zhu</a>. Before this, I earned a BS in Software Engineering at Shandong University under the advice of <a href="https://faculty.sdu.edu.cn/xuyonghui1/zh_CN/index.htm" target="_blue">Dr. Yonghui Xu</a>, and I also worked under the advice of <a href="https://sites.google.com/nyu.edu/mingtao-xia/home" target="_blue">Dr. Mingtao Xia</a> from New York University. <a href="CV.pdf" target="_blank">Download my Curriculum Vitae</a>.
+
+包括合著，我已经发表 20+ 篇学术论文
  <a href='https://scholar.google.com/citations?user=tIKc8voAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 

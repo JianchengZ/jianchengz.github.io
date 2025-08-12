@@ -44,56 +44,51 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 ---
 (* Corresponding authors; # Equal contribution)
 
-- Reconstructing Noisy Gene Regulation Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations
-`Jiancheng Zhang#`, Xiangting Li#, Xiaolu Guo#, Zhaoyi You, Lucas Böttcher, Alex Mogilner, Alexander Hoffmann, Tom Chou*, Mingtao Xia*
+- Reconstructing Noisy Gene Regulation Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations<br>
+`Jiancheng Zhang#`, Xiangting Li#, Xiaolu Guo#, Zhaoyi You, Lucas Böttcher, Alex Mogilner, Alexander Hoffmann, Tom Chou*, Mingtao Xia*<br>
 arXiv, 2025. [<a href="https://arxiv.org/abs/2503.09007">Paper</a>]
 
-- Mixtraining: A Better Trade-Off Between Compute and Performance
-Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu*, Cong Liu
+- Mixtraining: A Better Trade-Off Between Compute and Performance<br>
+Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu*, Cong Liu<br>
 arXiv, 2025. [<a href="https://arxiv.org/pdf/2502.19513">Paper</a>]
 
 ### Conference and Journal Publications [<a href="https://scholar.google.com/citations?hl=en&user=tIKc8voAAAAJ&view_op=list_works&gmla=A[…]ho3HWBaDojBo8vRM3HCL1dK1AEj4PG4QjDQjqeEDXf3Z-VQYmncjW_rAbJs">Google Scholar</a>] 
 ---
 (* Corresponding authors; # Equal contribution)
 
-- EAPR: explainable and augmented patient representation learning for disease prediction
-`Jiancheng Zhang*`, Yonghui Xu*, Bicui Ye, Yibowen Zhao, Xiaofang Sun, Qi Meng, Yang Zhang*, Lizhen Cui
+- EAPR: explainable and augmented patient representation learning for disease prediction<br>
+`Jiancheng Zhang*`, Yonghui Xu*, Bicui Ye, Yibowen Zhao, Xiaofang Sun, Qi Meng, Yang Zhang*, Lizhen Cui<br>
 In Health Information Science and Systems, 2023. [<a href="https://link.springer.com/article/10.1007/s13755-023-00256-5">Paper</a>]
 
-- Knowledge distillation in medical data mining: a survey
-Hefeng Meng, Zhiqiang Lin, Fan Yang, `Jiancheng Zhang`, Wei He, Yonghui Xu*, Lizhen Cui* 
+- Knowledge distillation in medical data mining: a survey<br>
+Hefeng Meng, Zhiqiang Lin, Fan Yang, `Jiancheng Zhang`, Wei He, Yonghui Xu*, Lizhen Cui* <br>
 In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2021. [<a href="https://dl.acm.org/doi/abs/10.1145/3503181.3503211">Paper</a>]
 
-- A survey on knowledge enhanced EHR data mining
-`Jiancheng Zhang`, Xiao Yang, Hefeng Meng, Zhiqiang Lin, Yonghui Xu*, Lizhen Cui* 
+- A survey on knowledge enhanced EHR data mining<br>
+`Jiancheng Zhang`, Xiao Yang, Hefeng Meng, Zhiqiang Lin, Yonghui Xu*, Lizhen Cui* <br>
 In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2021. [<a href="https://dl.acm.org/doi/abs/10.1145/3503181.3503202">Paper</a>]
 
 
 
+<span class='anchor' id='-Awards'></span>
 
+# 🏅 Awards
+- UCR Dean's Distinguished Fellowship, 2024
+- 2022 SDU School of Software Scholarship, 2022
+- 2022 SDU School of Software Specialty Scholarship, 2022
+- 2021 SDU School of Software Scholarship, 2021
+- First Prize of Shandong, National Mathematical Modeling Contest, 2021
+  
 
+<span class='anchor' id='-Talks'></span>
 
+# 🏛️ Talks
+- ()
 
+<span class='anchor' id='-Others'></span>
 
-
-
-<span class='anchor' id='-ryjx'></span>
-
-# 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
-
-<span class='anchor' id='-xshy'></span>
-
-# 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
-
-<span class='anchor' id='-gzsx'></span>
-
-# 💻 工作实习
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+# 💻 Others
+---
+### Intern Experience
+---
+- ()

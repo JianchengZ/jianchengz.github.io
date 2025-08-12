@@ -29,16 +29,9 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
   
 
-
-<span class='anchor' id='-Educations'></span>
-
-# 🎓 Educations
-- *2024.09 - Now*, PhD, <a href="https://www.ucr.edu/">University of California, Riverside</a> 
-- *2020.09 - 2024.06*, Undergraduate, <a href="https://www.sdu.edu.cn/">Shandong University</a> 
- 
 <span class='anchor' id='-Publications'></span>
 
-# 📝 Publications
+# Publications
 
 ### Preprints
 ---
@@ -69,25 +62,59 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2021. [<a href="https://dl.acm.org/doi/abs/10.1145/3503181.3503202">Paper</a>]
 
 
+<span class='anchor' id='-Services'></span>
+
+# Services
+---
+### Conference Reviewer
+---
+
+- International Conference on Machine Learning (ICML), 2025
+- International Conference on Learning Representations (ICLR), 2025
+- Conference on Language Modeling (COLM), 2025
+
+
+<span class='anchor' id='-Talks'></span>
+
+# Talks
+- .
+
 
 <span class='anchor' id='-Awards'></span>
 
-# 🏅 Awards
+# Awards
 - UCR Dean's Distinguished Fellowship, 2024
 - 2022 SDU School of Software Scholarship, 2022
 - 2022 SDU School of Software Specialty Scholarship, 2022
 - 2021 SDU School of Software Scholarship, 2021
 - First Prize of Shandong, National Mathematical Modeling Contest, 2021
   
+<span class='anchor' id='-Teaching'></span>
 
-<span class='anchor' id='-Talks'></span>
+# Teaching
+---
+### Teaching Assistant (TA) at UCR:
+---
 
-# 🏛️ Talks
-- ()
+- EE114: Probability, Random Variables, and Random Processes in Electrical Engineering, Winter’2025
+
+
+
+
+<span class='anchor' id='-Educations'></span>
+
+# Educations
+- *2024.09 - Now*, PhD, <a href="https://www.ucr.edu/">University of California, Riverside</a> 
+- *2020.09 - 2024.06*, Undergraduate, <a href="https://www.sdu.edu.cn/">Shandong University</a> 
+ 
+
+
+
+
 
 <span class='anchor' id='-Others'></span>
 
-# 💻 Others
+# Others
 ---
 ### Intern Experience
 ---

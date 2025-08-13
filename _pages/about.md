@@ -27,12 +27,28 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 - Large Language Models (LLMs)
 - Efficient Machine Learning
 
-  
+<span class='anchor' id='-News'></span>
+
+# News
+---
+### 2025
+---
+- 03/2025: I serve as a reviewer for ICML2025.
+### 2024
+---
+- 09/2024: I would serve as a reviewer for ICLR2025.
+- 05/2024: I have accepted the offer from UCR.
+
+
+
+
+
+
 
 <span class='anchor' id='-Publications'></span>
 
 # Publications
-
+---
 ### Preprints
 ---
 (* Corresponding authors; # Equal contribution)
@@ -77,6 +93,7 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 <span class='anchor' id='-Talks'></span>
 
 # Talks
+
 - .
 
 

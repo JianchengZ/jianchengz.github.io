@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiancheng Zhang"
-  # avatar           : "images/zjc.png"
+  avatar           : "images/zjc.jpg"
   bio              : "PhD Student @ <br>
                       University of California, Riverside"
   location         : "Riverside, USA"

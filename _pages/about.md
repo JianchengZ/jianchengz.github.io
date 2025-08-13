@@ -31,9 +31,12 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 # News
 ---
+
 ### 2025
 ---
+
 - 03/2025: I serve as a reviewer for ICML2025.
+
 ### 2024
 ---
 - 09/2024: I would serve as a reviewer for ICLR2025.
@@ -121,8 +124,8 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 <span class='anchor' id='-Educations'></span>
 
 # Educations
-- *2024.09 - Now*, PhD, <a href="https://www.ucr.edu/">University of California, Riverside</a> 
-- *2020.09 - 2024.06*, Undergraduate, <a href="https://www.sdu.edu.cn/">Shandong University</a> 
+- 2024.09 - Now, PhD Student, <a href="https://www.ucr.edu/">University of California, Riverside</a> 
+- 2020.09 - 2024.06, Undergraduate, <a href="https://www.sdu.edu.cn/">Shandong University</a> 
  
 
 

@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Jiancheng Zhang - Homepage"
-description              : "Personal Homepage"
-repository               : "JianchengZ/JianchengZ.github.io"
+description              : ""
+repository               : "JianchengZ"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -23,8 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiancheng Zhang"
   avatar           : "images/zjc.png"
-  bio              : "University of California, Riverside"
-  location         : ""
+  bio              : "PhD Student @ 
+                      University of California, Riverside"
+  location         : "Riverside, USA"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tIKc8voAAAAJ"
@@ -36,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+  linkedin         : "https://www.linkedin.com/in/jiancheng-zhang-459302286/"
   github           : "https://github.com/JianchengZ"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   pinterest        :
   soundcloud       :

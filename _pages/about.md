@@ -38,11 +38,11 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 (* Corresponding authors; # Equal contribution)
 
 - Reconstructing Noisy Gene Regulation Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations<br>
-`Jiancheng Zhang#`, Xiangting Li#, Xiaolu Guo#, Zhaoyi You, Lucas Böttcher, Alex Mogilner, Alexander Hoffmann, Tom Chou*, Mingtao Xia*<br>
+`Jiancheng Zhang#`, Xiangting Li#, Xiaolu Guo#, Zhaoyi You, Lucas Böttcher, Alex Mogilner, Alexander Hoffmann, Tom Chou\*, Mingtao Xia\*<br>
 arXiv, 2025. [<a href="https://arxiv.org/abs/2503.09007">Paper</a>]
 
 - Mixtraining: A Better Trade-Off Between Compute and Performance<br>
-Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu*, Cong Liu<br>
+Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu\*, Cong Liu<br>
 arXiv, 2025. [<a href="https://arxiv.org/pdf/2502.19513">Paper</a>]
 
 ### Conference and Journal Publications [<a href="https://scholar.google.com/citations?hl=en&user=tIKc8voAAAAJ&view_op=list_works&gmla=A[…]ho3HWBaDojBo8vRM3HCL1dK1AEj4PG4QjDQjqeEDXf3Z-VQYmncjW_rAbJs">Google Scholar</a>] 
@@ -50,15 +50,15 @@ arXiv, 2025. [<a href="https://arxiv.org/pdf/2502.19513">Paper</a>]
 (* Corresponding authors; # Equal contribution)
 
 - EAPR: explainable and augmented patient representation learning for disease prediction<br>
-`Jiancheng Zhang*`, Yonghui Xu*, Bicui Ye, Yibowen Zhao, Xiaofang Sun, Qi Meng, Yang Zhang*, Lizhen Cui<br>
+`Jiancheng Zhang*`, Yonghui Xu\*, Bicui Ye, Yibowen Zhao, Xiaofang Sun, Qi Meng, Yang Zhang\*, Lizhen Cui<br>
 In Health Information Science and Systems, 2023. [<a href="https://link.springer.com/article/10.1007/s13755-023-00256-5">Paper</a>]
 
 - Knowledge distillation in medical data mining: a survey<br>
-Hefeng Meng, Zhiqiang Lin, Fan Yang, `Jiancheng Zhang`, Wei He, Yonghui Xu*, Lizhen Cui* <br>
+Hefeng Meng, Zhiqiang Lin, Fan Yang, `Jiancheng Zhang`, Wei He, Yonghui Xu\*, Lizhen Cui\* <br>
 In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2021. [<a href="https://dl.acm.org/doi/abs/10.1145/3503181.3503211">Paper</a>]
 
 - A survey on knowledge enhanced EHR data mining<br>
-`Jiancheng Zhang`, Xiao Yang, Hefeng Meng, Zhiqiang Lin, Yonghui Xu*, Lizhen Cui* <br>
+`Jiancheng Zhang`, Xiao Yang, Hefeng Meng, Zhiqiang Lin, Yonghui Xu\*, Lizhen Cui\* <br>
 In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2021. [<a href="https://dl.acm.org/doi/abs/10.1145/3503181.3503202">Paper</a>]
 
 

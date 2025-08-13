@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiancheng Zhang"
-  avatar           : "images/zjc.png"
-  bio              : "PhD Student @ 
+  # avatar           : "images/zjc.png"
+  bio              : "PhD Student @ <br>
                       University of California, Riverside"
   location         : "Riverside, USA"
   employer         : #"Hefei General Machinery Research Institute"

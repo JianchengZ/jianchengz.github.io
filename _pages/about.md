@@ -57,9 +57,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 ---
 (* Corresponding authors; # Equal contribution)
 
-- Reconstructing Noisy Gene Regulation Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations<br>
-`Jiancheng Zhang#`, Xiangting Li#, Xiaolu Guo#, Zhaoyi You, Lucas Böttcher, Alex Mogilner, Alexander Hoffmann, Tom Chou\*, Mingtao Xia\*<br>
-arXiv, 2025. [<a href="https://arxiv.org/abs/2503.09007">Paper</a>]
+
 
 - Mixtraining: A Better Trade-Off Between Compute and Performance<br>
 Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu\*, Cong Liu<br>
@@ -68,6 +66,10 @@ arXiv, 2025. [<a href="https://arxiv.org/pdf/2502.19513">Paper</a>]
 ### Conference and Journal Publications [<a href="https://scholar.google.com/citations?hl=en&user=tIKc8voAAAAJ&view_op=list_works&gmla=A[…]ho3HWBaDojBo8vRM3HCL1dK1AEj4PG4QjDQjqeEDXf3Z-VQYmncjW_rAbJs">Google Scholar</a>] 
 ---
 (* Corresponding authors; # Equal contribution)
+
+- Reconstructing Noisy Gene Regulation Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations<br>
+`Jiancheng Zhang#`, Xiangting Li#, Xiaolu Guo#, Zhaoyi You, Lucas Böttcher, Alex Mogilner, Alexander Hoffmann, Tom Chou\*, Mingtao Xia\*<br>
+PLOS Computational Biology, 2025. [<a href="https://arxiv.org/abs/2503.09007">Paper</a>]
 
 - EAPR: explainable and augmented patient representation learning for disease prediction<br>
 `Jiancheng Zhang*`, Yonghui Xu\*, Bicui Ye, Yibowen Zhao, Xiaofang Sun, Qi Meng, Yang Zhang\*, Lizhen Cui<br>

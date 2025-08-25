@@ -35,6 +35,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 ### 2025
 ---
 
+- 08/2025: One paper has been accepted by PLOS Computational Biology.
 - 03/2025: I serve as a reviewer for ICML2025.
 
 ### 2024

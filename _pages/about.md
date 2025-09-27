@@ -77,7 +77,7 @@ arXiv, 2025. [<a href="https://arxiv.org/pdf/2502.19513">Paper</a>]
 
 - Reconstructing Noisy Gene Regulation Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations<br>
 `Jiancheng Zhang#`, Xiangting Li#, Xiaolu Guo#, Zhaoyi You, Lucas Böttcher, Alex Mogilner, Alexander Hoffmann, Tom Chou\*, Mingtao Xia\*<br>
-PLOS Computational Biology, 2025. [<a href="https://arxiv.org/abs/2503.09007">Paper</a>]
+PLOS Computational Biology, 2025. [<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013462">Paper</a>]
 
 - EAPR: explainable and augmented patient representation learning for disease prediction<br>
 `Jiancheng Zhang*`, Yonghui Xu\*, Bicui Ye, Yibowen Zhao, Xiaofang Sun, Qi Meng, Yang Zhang\*, Lizhen Cui<br>
@@ -127,7 +127,7 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 ---
 ### Teaching Assistant (TA) at UCR:
 ---
-
+- EE114: Probability, Random Variables, and Random Processes in Electrical Engineering, Fall’2025
 - EE114: Probability, Random Variables, and Random Processes in Electrical Engineering, Winter’2025
 
 

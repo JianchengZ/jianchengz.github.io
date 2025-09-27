@@ -63,7 +63,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 arXiv, 2025. [<a href="">Paper</a>]
 
 - Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models<br>
-Yinglun Zhu\*,, `Jiancheng Zhang`, Fuzhi Tang<br>
+Yinglun Zhu\*, `Jiancheng Zhang`, Fuzhi Tang<br>
 arXiv, 2025. [<a href="">Paper</a>]
 
 

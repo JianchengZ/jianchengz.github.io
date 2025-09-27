@@ -35,6 +35,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 ### 2025
 ---
 
+- 09/2025: I will serve as a reviewer for ICLR2026.
 - 08/2025: One paper has been accepted by PLOS Computational Biology.
 - 03/2025: I serve as a reviewer for ICML2025.
 
@@ -57,6 +58,13 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 ---
 (* Corresponding authors; # Equal contribution)
 
+- Towards Multimodal Active Learning: Efficient Learning with Limited Paired Data<br>
+`Jiancheng Zhang`, Yinglun Zhu\*<br>
+arXiv, 2025. [<a href="">Paper</a>]
+
+- Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models<br>
+Yinglun Zhu\*,, `Jiancheng Zhang`, Fuzhi Tang<br>
+arXiv, 2025. [<a href="">Paper</a>]
 
 
 - Mixtraining: A Better Trade-Off Between Compute and Performance<br>

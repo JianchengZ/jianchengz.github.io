@@ -53,9 +53,8 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 <span class='anchor' id='-Publications'></span>
 
 # Publications [<a href="https://scholar.google.com/citations?hl=en&user=tIKc8voAAAAJ&view_op=list_works&gmla=A[…]ho3HWBaDojBo8vRM3HCL1dK1AEj4PG4QjDQjqeEDXf3Z-VQYmncjW_rAbJs">Google Scholar</a>] 
----
-(* Corresponding authors; # Equal contribution)
 
+(* Corresponding authors; # Equal contribution)
 
 - Towards Multimodal Active Learning: Efficient Learning with Limited Paired Data<br>
 `Jiancheng Zhang`, Yinglun Zhu\*<br>
@@ -65,13 +64,9 @@ arXiv, 2025. [<a href="">Paper</a>]
 Yinglun Zhu\*, `Jiancheng Zhang`, Fuzhi Tang<br>
 arXiv, 2025. [<a href="">Paper</a>]
 
-
 - Mixtraining: A Better Trade-Off Between Compute and Performance<br>
 Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu\*, Cong Liu<br>
 arXiv, 2025. [<a href="https://arxiv.org/pdf/2502.19513">Paper</a>]
-
-
-
 
 - Reconstructing Noisy Gene Regulation Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations<br>
 `Jiancheng Zhang#`, Xiangting Li#, Xiaolu Guo#, Zhaoyi You, Lucas Böttcher, Alex Mogilner, Alexander Hoffmann, Tom Chou\*, Mingtao Xia\*<br>

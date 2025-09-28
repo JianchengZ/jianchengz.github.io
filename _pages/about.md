@@ -30,17 +30,14 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 <span class='anchor' id='-News'></span>
 
 # News
----
 
 ### 2025
----
 
 - 09/2025: I will serve as a reviewer for ICLR2026.
 - 08/2025: One paper has been accepted by PLOS Computational Biology.
 - 03/2025: I serve as a reviewer for ICML2025.
 
 ### 2024
----
 - 09/2024: I would serve as a reviewer for ICLR2025.
 - 05/2024: I have accepted the offer from UCR.
 
@@ -88,9 +85,8 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 <span class='anchor' id='-Services'></span>
 
 # Services
----
 ### Conference Reviewer
----
+
 
 - International Conference on Learning Representations (ICLR), 2026
 - International Conference on Machine Learning (ICML), 2025
@@ -117,9 +113,7 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 <span class='anchor' id='-Teaching'></span>
 
 # Teaching
----
 ### Teaching Assistant (TA) at UCR:
----
 - EE114: Probability, Random Variables, and Random Processes in Electrical Engineering, Fall’2025
 - EE114: Probability, Random Variables, and Random Processes in Electrical Engineering, Winter’2025
 
@@ -140,7 +134,6 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 <span class='anchor' id='-Others'></span>
 
 # Others
----
 ### Intern Experience
----
+
 - .

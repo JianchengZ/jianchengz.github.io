@@ -20,7 +20,7 @@ redirect_from:
 I am a PhD student in the ECE department at UC Riverside, supervised by <a href="https://yinglunz.com/" target="_blue">Dr. Yinglun Zhu</a>. Before this, I earned a BS in Software Engineering at Shandong University under the advice of <a href="https://faculty.sdu.edu.cn/xuyonghui1/zh_CN/index.htm" target="_blue">Dr. Yonghui Xu</a>, and I also worked under the advice of <a href="https://sites.google.com/nyu.edu/mingtao-xia/home" target="_blue">Dr. Mingtao Xia</a> from New York University. <a href="/_pages/CV.pdf" target="_blank">Download my Curriculum Vitae</a>. 
 
 
-My research focuses on <b>machine learning</b>, <b>large models</b>, and <b>artificial intelligence</b>. I'm especially interested in delving into the following research areas:
+My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b>artificial intelligence</b>. I'm especially interested in delving into the following research areas:
 
 - Active Learning (AL)
 - Large Language Models (LLMs)

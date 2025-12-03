@@ -69,10 +69,6 @@ arXiv, 2025. [<a href="https://arxiv.org/pdf/2502.19513">Paper</a>]
 `Jiancheng Zhang#`, Xiangting Li#, Xiaolu Guo#, Zhaoyi You, Lucas Böttcher, Alex Mogilner, Alexander Hoffmann, Tom Chou\*, Mingtao Xia\*<br>
 PLOS Computational Biology, 2025. [<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013462">Paper</a>]
 
-- EAPR: explainable and augmented patient representation learning for disease prediction<br>
-`Jiancheng Zhang*`, Yonghui Xu\*, Bicui Ye, Yibowen Zhao, Xiaofang Sun, Qi Meng, Yang Zhang\*, Lizhen Cui<br>
-In Health Information Science and Systems, 2023. [<a href="https://link.springer.com/article/10.1007/s13755-023-00256-5">Paper</a>]
-
 - Knowledge Distillation In Medical Data Mining: A Survey<br>
 Hefeng Meng, Zhiqiang Lin, Fan Yang, `Jiancheng Zhang`, Wei He, Yonghui Xu\*, Lizhen Cui\* <br>
 In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2021. [<a href="https://dl.acm.org/doi/abs/10.1145/3503181.3503211">Paper</a>]

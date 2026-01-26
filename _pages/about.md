@@ -31,6 +31,12 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 # News
 
+### 2026
+
+- 01/2026: One paper is accepted by ICLR 2026.
+- 01/2026: One paper is accepted by TMLR 2026.
+
+
 ### 2025
 
 - 09/2025: I will serve as a reviewer for ICLR2026.
@@ -59,7 +65,7 @@ arXiv, 2025. [<a href="https://arxiv.org/abs/2510.03247">Paper</a>]
 
 - Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models<br>
 Yinglun Zhu\*, `Jiancheng Zhang`, Fuzhi Tang<br>
-arXiv, 2025. [<a href="https://arxiv.org/abs/2510.07632">Paper</a>]
+International Conference on Learning Representations (ICLR), 2026. [<a href="https://arxiv.org/abs/2510.07632">Paper</a>]
 
 - Mixtraining: A Better Trade-Off Between Compute and Performance<br>
 Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu\*, Cong Liu<br>

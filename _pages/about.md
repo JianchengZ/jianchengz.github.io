@@ -61,7 +61,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 - Towards Multimodal Active Learning: Efficient Learning with Limited Paired Data<br>
 `Jiancheng Zhang`, Yinglun Zhu\*<br>
-Transactions on Machine Learning Research (TMLR), 2025. [<a href="https://arxiv.org/abs/2510.03247">Paper</a>]
+Transactions on Machine Learning Research (TMLR), 2026. [<a href="https://arxiv.org/abs/2510.03247">Paper</a>]
 
 - Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models<br>
 Yinglun Zhu\*, `Jiancheng Zhang`, Fuzhi Tang<br>

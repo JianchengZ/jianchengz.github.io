@@ -59,6 +59,10 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 (* Corresponding authors; # Equal contribution)
 
+- Active Learning with Foundation Model Priors: Efficient Learning under Class Imbalance <br>
+  `Jiancheng Zhang`, Meiqing Li, Qi Zhang, Yinglun Zhu\*<br>
+  
+
 - Towards Multimodal Active Learning: Efficient Learning with Limited Paired Data<br>
 `Jiancheng Zhang`, Yinglun Zhu\*<br>
 Transactions on Machine Learning Research (TMLR), 2026. [<a href="https://arxiv.org/abs/2510.03247">Paper</a>]

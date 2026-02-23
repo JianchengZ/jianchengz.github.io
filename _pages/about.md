@@ -36,7 +36,6 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 - 02/2026: One paper is accepted by TMLR 2026.
 - 01/2026: One paper is accepted by ICLR 2026.
 
-
 ### 2025
 
 - 09/2025: I will serve as a reviewer for ICLR2026.

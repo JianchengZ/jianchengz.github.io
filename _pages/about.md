@@ -68,7 +68,7 @@ Transactions on Machine Learning Research (TMLR), 2026. [<a href="https://openre
 
 - Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models<br>
 Yinglun Zhu\*, `Jiancheng Zhang`, Fuzhi Tang<br>
-International Conference on Learning Representations (ICLR), 2026. [<a href="https://arxiv.org/abs/2510.07632">Paper</a>]
+International Conference on Learning Representations (ICLR), 2026. [<a href="https://openreview.net/attachment?id=wWxdT6LB2D&name=pdf">Paper</a>]
 
 - Mixtraining: A Better Trade-Off Between Compute and Performance<br>
 Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu\*, Cong Liu<br>

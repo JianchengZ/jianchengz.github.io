@@ -49,9 +49,6 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 
 
-
-
-
 <span class='anchor' id='-Publications'></span>
 
 # Publications [<a href="https://scholar.google.com/citations?hl=en&user=tIKc8voAAAAJ&view_op=list_works&gmla=A[…]ho3HWBaDojBo8vRM3HCL1dK1AEj4PG4QjDQjqeEDXf3Z-VQYmncjW_rAbJs">Google Scholar</a>] 
@@ -60,7 +57,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 - Active Learning with Foundation Model Priors: Efficient Learning under Class Imbalance <br>
   `Jiancheng Zhang`, Meiqing Li, Qi Zhang, Yinglun Zhu\*<br>
-  
+  Under review
 
 - Towards Multimodal Active Learning: Efficient Learning with Limited Paired Data<br>
 `Jiancheng Zhang`, Yinglun Zhu\*<br>
@@ -92,7 +89,7 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 # Services
 ### Conference Reviewer
 
-
+- Conference on Language Modeling (COLM), 2026
 - International Conference on Learning Representations (ICLR), 2026
 - International Conference on Machine Learning (ICML), 2025
 - International Conference on Learning Representations (ICLR), 2025

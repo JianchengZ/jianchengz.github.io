@@ -95,6 +95,9 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 - International Conference on Learning Representations (ICLR), 2025
 - Conference on Language Modeling (COLM), 2025
 
+### Journal Reviewer
+
+- Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026
 
 <span class='anchor' id='-Talks'></span>
 

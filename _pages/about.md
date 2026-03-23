@@ -33,6 +33,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 ### 2026
 
+- 03/2026: Another paper is also accepted by TMLR 2026.
 - 02/2026: One paper is accepted by TMLR 2026.
 - 01/2026: One paper is accepted by ICLR 2026.
 
@@ -55,9 +56,15 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 (* Corresponding authors; # Equal contribution)
 
+
+
 - Active Learning with Foundation Model Priors: Efficient Learning under Class Imbalance <br>
   `Jiancheng Zhang`, Meiqing Li, Qi Zhang, Yinglun Zhu\*<br>
   Under review
+
+- Mixtraining: A Better Trade-Off Between Compute and Performance<br>
+Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu\*, Cong Liu<br>
+Transactions on Machine Learning Research (TMLR), 2026. [<a href="https://arxiv.org/pdf/2502.19513">Paper</a>]
 
 - Towards Multimodal Active Learning: Efficient Learning with Limited Paired Data<br>
 `Jiancheng Zhang`, Yinglun Zhu\*<br>
@@ -66,10 +73,6 @@ Transactions on Machine Learning Research (TMLR), 2026. [<a href="https://openre
 - Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models<br>
 Yinglun Zhu\*, `Jiancheng Zhang`, Fuzhi Tang<br>
 International Conference on Learning Representations (ICLR), 2026. [<a href="https://openreview.net/attachment?id=wWxdT6LB2D&name=pdf">Paper</a>]
-
-- Mixtraining: A Better Trade-Off Between Compute and Performance<br>
-Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu\*, Cong Liu<br>
-arXiv, 2025. [<a href="https://arxiv.org/pdf/2502.19513">Paper</a>]
 
 - Reconstructing Noisy Gene Regulation Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations<br>
 `Jiancheng Zhang#`, Xiangting Li#, Xiaolu Guo#, Zhaoyi You, Lucas Böttcher, Alex Mogilner, Alexander Hoffmann, Tom Chou\*, Mingtao Xia\*<br>

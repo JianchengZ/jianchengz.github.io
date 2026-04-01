@@ -93,7 +93,7 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 # Services
 ### Conference Reviewer
 
-- The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
+- Neural Information Processing Systems (NeurIPS), 2026
 - Conference on Language Modeling (COLM), 2026
 - International Conference on Learning Representations (ICLR), 2026
 - International Conference on Machine Learning (ICML), 2025

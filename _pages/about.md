@@ -69,7 +69,7 @@ Transactions on Machine Learning Research (TMLR), 2026. [<a href="https://openre
 
 - Towards Multimodal Active Learning: Efficient Learning with Limited Paired Data<br>
 `Jiancheng Zhang`, Yinglun Zhu\*<br>
-Transactions on Machine Learning Research (TMLR), 2026. [<a href="https://openreview.net/pdf?id=xMLajoct78">Paper</a>]
+Transactions on Machine Learning Research (TMLR), 2026. [<a href="https://openreview.net/forum?id=xMLajoct78">Paper</a>]
 
 - Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models<br>
 Yinglun Zhu\*, `Jiancheng Zhang`, Fuzhi Tang<br>

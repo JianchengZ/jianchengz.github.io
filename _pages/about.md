@@ -33,6 +33,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 ### 2026
 
+- 04/2026: I will be the reviewer for NeurIPS 2026.
 - 03/2026: Another paper is also accepted by TMLR 2026.
 - 02/2026: One paper is accepted by TMLR 2026.
 - 01/2026: One paper is accepted by ICLR 2026.
@@ -64,7 +65,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 - Mixtraining: A Better Trade-Off Between Compute and Performance<br>
 Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu\*, Cong Liu<br>
-Transactions on Machine Learning Research (TMLR), 2026. [<a href="https://arxiv.org/pdf/2502.19513">Paper</a>]
+Transactions on Machine Learning Research (TMLR), 2026. [<a href="https://openreview.net/forum?id=NVpS2g9KRo">Paper</a>]
 
 - Towards Multimodal Active Learning: Efficient Learning with Limited Paired Data<br>
 `Jiancheng Zhang`, Yinglun Zhu\*<br>
@@ -92,6 +93,7 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 # Services
 ### Conference Reviewer
 
+- The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
 - Conference on Language Modeling (COLM), 2026
 - International Conference on Learning Representations (ICLR), 2026
 - International Conference on Machine Learning (ICML), 2025

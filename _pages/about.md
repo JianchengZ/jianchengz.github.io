@@ -146,4 +146,7 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 # Others
 ### Intern Experience
 
-- .
+- New York University<br>
+  Research Intern<br>
+  Work with: <a href="https://sites.google.com/nyu.edu/mingtao-xia/home" target="_blue">Dr. Mingtao Xia</a>
+

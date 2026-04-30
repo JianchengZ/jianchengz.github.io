@@ -33,6 +33,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 ### 2026
 
+- 04/2026: One paper is accepted by ICML 2026.
 - 04/2026: I will be the reviewer for NeurIPS 2026.
 - 03/2026: Another paper is also accepted by TMLR 2026.
 - 02/2026: One paper is accepted by TMLR 2026.
@@ -61,7 +62,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 - Active Learning with Foundation Model Priors: Efficient Learning under Class Imbalance <br>
   `Jiancheng Zhang`, Meiqing Li, Qi Zhang, Yinglun Zhu\*<br>
-  Under review
+  International Conference on Machine Learning (ICML), 2026. 
 
 - Mixtraining: A Better Trade-Off Between Compute and Performance<br>
 Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu\*, Cong Liu<br>

@@ -58,35 +58,35 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 (* Corresponding authors; # Equal contribution)
 
-- Active Testing of Large Language Models via Approximate Neyman Allocation <br>
+- <u>Active Testing of Large Language Models via Approximate Neyman Allocation</u> <br>
   Zeli Liu, `Jiancheng Zhang`, Cong Liu, Yinglun Zhu\*<br>
   Submission, 2026.
 
-- Active Learning with Foundation Model Priors: Efficient Learning under Class Imbalance <br>
+- <u>Active Learning with Foundation Model Priors: Efficient Learning under Class Imbalance</u> <br>
   `Jiancheng Zhang`, Meiqing Li, Qi Zhang, Yinglun Zhu\*<br>
   International Conference on Machine Learning (ICML), 2026. 
 
-- Mixtraining: A Better Trade-Off Between Compute and Performance<br>
+- <u>Mixtraining: A Better Trade-Off Between Compute and Performance</u><br>
 Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu\*, Cong Liu<br>
 Transactions on Machine Learning Research (TMLR), 2026. [<a href="https://openreview.net/forum?id=NVpS2g9KRo">Paper</a>]
 
-- Towards Multimodal Active Learning: Efficient Learning with Limited Paired Data<br>
+- <u>Towards Multimodal Active Learning: Efficient Learning with Limited Paired Data</u><br>
 `Jiancheng Zhang`, Yinglun Zhu\*<br>
 Transactions on Machine Learning Research (TMLR), 2026. [<a href="https://openreview.net/forum?id=xMLajoct78">Paper</a>]
 
-- Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models<br>
+- <u>Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models</u><br>
 Yinglun Zhu\*, `Jiancheng Zhang`, Fuzhi Tang<br>
 International Conference on Learning Representations (ICLR), 2026. [<a href="https://openreview.net/attachment?id=wWxdT6LB2D&name=pdf">Paper</a>]
 
-- Reconstructing Noisy Gene Regulation Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations<br>
+- <u>Reconstructing Noisy Gene Regulation Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations</u><br>
 `Jiancheng Zhang#`, Xiangting Li#, Xiaolu Guo#, Zhaoyi You, Lucas Böttcher, Alex Mogilner, Alexander Hoffmann, Tom Chou\*, Mingtao Xia\*<br>
 PLOS Computational Biology, 2025. [<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013462">Paper</a>]
 
-- Knowledge Distillation In Medical Data Mining: A Survey<br>
+- <u>Knowledge Distillation In Medical Data Mining: A Survey</u><br>
 Hefeng Meng, Zhiqiang Lin, Fan Yang, `Jiancheng Zhang`, Wei He, Yonghui Xu\*, Lizhen Cui\* <br>
 In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2021. [<a href="https://dl.acm.org/doi/abs/10.1145/3503181.3503211">Paper</a>]
 
-- A Survey on Knowledge Enhanced EHR Data Mining<br>
+- <u>A Survey on Knowledge Enhanced EHR Data Mining</u><br>
 `Jiancheng Zhang`, Xiao Yang, Hefeng Meng, Zhiqiang Lin, Yonghui Xu\*, Lizhen Cui\* <br>
 In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2021. [<a href="https://dl.acm.org/doi/abs/10.1145/3503181.3503202">Paper</a>]
 

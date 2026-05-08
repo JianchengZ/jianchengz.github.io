@@ -30,7 +30,8 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 <span class='anchor' id='-News'></span>
 
 # News
-<div style="
+
+<div markdown="1" style="
     height: 300px;
     overflow-y: auto;
     border: 1px solid #ccc;
@@ -38,6 +39,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
     border-radius: 10px;
     background-color: #fafafa;
 ">
+
 
 ### 2026
 

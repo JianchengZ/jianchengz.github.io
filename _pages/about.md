@@ -30,6 +30,14 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 <span class='anchor' id='-News'></span>
 
 # News
+<div style="
+    height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #fafafa;
+">
 
 ### 2026
 
@@ -41,15 +49,15 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 ### 2025
 
-- 09/2025: I will serve as a reviewer for ICLR2026.
+- 09/2025: I will serve as a reviewer for ICLR 2026.
 - 08/2025: One paper has been accepted by PLOS Computational Biology.
-- 03/2025: I serve as a reviewer for ICML2025.
+- 03/2025: I serve as a reviewer for ICML 2025.
 
 ### 2024
-- 09/2024: I would serve as a reviewer for ICLR2025.
-- 05/2024: I have accepted the offer from UCR.
+- 09/2024: I would serve as a reviewer for ICLR 2025.
+- 05/2024: I accepted the offer from UCR and joined the Zhu Lab.
 
-
+</div>
 
 
 <span class='anchor' id='-Publications'></span>

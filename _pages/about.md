@@ -34,17 +34,11 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 <div markdown="1" style="
     max-height: 260px;
     overflow-y: scroll;
-
-    padding: 0.5rem 1rem;
-
-    background: #fcfcfc;
-
-    border-left: 3px solid #3b82f6;
-
+    padding-right: 0.5rem;
     font-size: 0.95rem;
-
     line-height: 1.6;
 ">
+
 ### 2026
 
 - 04/2026: One paper is accepted by ICML 2026.

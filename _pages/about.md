@@ -68,7 +68,8 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 - <u>Active Testing of Large Language Models via Approximate Neyman Allocation</u> <br>
   Zeli Liu, `Jiancheng Zhang`, Cong Liu, Yinglun Zhu\*<br>
-  Under review, 2026.
+  Preprint, 2026. [<a href="https://arxiv.org/pdf/2605.10075v1">arXiv</a>]
+
 
 - <u>Active Learning with Foundation Model Priors: Efficient Learning under Class Imbalance</u> <br>
   `Jiancheng Zhang`, Meiqing Li, Qi Zhang, Yinglun Zhu\*<br>

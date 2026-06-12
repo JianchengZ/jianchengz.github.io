@@ -73,7 +73,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 - <u>Active Learning with Foundation Model Priors: Efficient Learning under Class Imbalance</u> <br>
   `Jiancheng Zhang`, Meiqing Li, Qi Zhang, Yinglun Zhu\*<br>
-  International Conference on Machine Learning (ICML), 2026. 
+  International Conference on Machine Learning (ICML), 2026. [<a href="https://icml.cc/virtual/2026/poster/60881">Paper</a>]
 
 - <u>Mixtraining: A Better Trade-Off Between Compute and Performance</u><br>
 Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu\*, Cong Liu<br>

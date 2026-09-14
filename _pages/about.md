@@ -32,7 +32,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 # News
 
 <div markdown="1" style="
-    max-height: 399px;
+    max-height: 325px;
     overflow-y: scroll;
     padding-right: 0.5rem;
     font-size: 0.95rem;

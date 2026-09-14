@@ -32,7 +32,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 # News
 
 <div markdown="1" style="
-    max-height: 260px;
+    max-height: 399px;
     overflow-y: scroll;
     padding-right: 0.5rem;
     font-size: 0.95rem;
@@ -41,6 +41,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 ### 2026
 
+- 09/2026: I serve as a reviewer for ICLR 2027.
 - 04/2026: One paper is accepted by ICML 2026.
 - 04/2026: I will be the reviewer for NeurIPS 2026.
 - 03/2026: Another paper is also accepted by TMLR 2026.
@@ -105,6 +106,7 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 # Services
 ### Conference Reviewer
 
+- International Conference on Learning Representations (ICLR), 2027
 - Neural Information Processing Systems (NeurIPS), 2026
 - Conference on Language Modeling (COLM), 2026
 - International Conference on Learning Representations (ICLR), 2026
@@ -118,9 +120,9 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 
 <span class='anchor' id='-Talks'></span>
 
-# Talks
+<!-- # Talks
 
-- .
+- . -->
 
 
 <span class='anchor' id='-Awards'></span>

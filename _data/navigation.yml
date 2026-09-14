@@ -12,8 +12,8 @@ main:
   - title: "Services"
     url: "#-Services"
 
-  - title: "Talks"
-    url: "#-Talks"
+  # - title: "Talks"
+  #   url: "#-Talks"
 
   - title: "Awards"
     url: "#-Awards"

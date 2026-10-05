@@ -21,7 +21,7 @@ redirect_from:
   padding: 1px 6px;
   margin-right: 5px;
 
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   font-weight: 600;
   line-height: 1.2;
 
@@ -140,19 +140,19 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 - <span class="pub-title"> Mixtraining: A Better Trade-Off Between Compute and Performance </span><br>
 Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu\*, Cong Liu<br>
-Transactions on Machine Learning Research (TMLR), 2026. [<a href="https://openreview.net/forum?id=NVpS2g9KRo">Paper</a>]
+<span class="venue-short venue-tmlr">TMLR 2026</span> Transactions on Machine Learning Research. [<a href="https://openreview.net/forum?id=NVpS2g9KRo">Paper</a>]
 
 - <span class="pub-title"> Towards Multimodal Active Learning: Efficient Learning with Limited Paired Data </span><br>
 `Jiancheng Zhang`, Yinglun Zhu\*<br>
-Transactions on Machine Learning Research (TMLR), 2026. [<a href="https://openreview.net/forum?id=xMLajoct78">Paper</a>]
+<span class="venue-short venue-tmlr">TMLR 2026</span> Transactions on Machine Learning Research. [<a href="https://openreview.net/forum?id=xMLajoct78">Paper</a>]
 
 - <span class="pub-title"> Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models </span><br>
 Yinglun Zhu\*, `Jiancheng Zhang`, Fuzhi Tang<br>
-International Conference on Learning Representations (ICLR), 2026. [<a href="https://openreview.net/attachment?id=wWxdT6LB2D&name=pdf">Paper</a>]
+<span class="venue-short venue-iclr">ICLR 2026</span> International Conference on Learning Representations. [<a href="https://openreview.net/attachment?id=wWxdT6LB2D&name=pdf">Paper</a>]
 
 - <span class="pub-title"> Reconstructing Noisy Gene Regulation Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations </span><br>
 `Jiancheng Zhang#`, Xiangting Li#, Xiaolu Guo#, Zhaoyi You, Lucas Böttcher, Alex Mogilner, Alexander Hoffmann, Tom Chou\*, Mingtao Xia\*<br>
-PLOS Computational Biology, 2025. [<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013462">Paper</a>]
+<span class="venue-short venue-plos">PLOS CB 2025</span> PLOS Computational Biology. [<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013462">Paper</a>]
 
 - <span class="pub-title"> Knowledge Distillation In Medical Data Mining: A Survey </span><br>
 Hefeng Meng, Zhiqiang Lin, Fan Yang, `Jiancheng Zhang`, Wei He, Yonghui Xu\*, Lizhen Cui\* <br>

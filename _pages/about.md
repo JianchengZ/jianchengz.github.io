@@ -66,21 +66,20 @@ redirect_from:
 }
 
 .news-date {
-  flex: 0 0 62px;
+  flex: 0 0 58px;
   font-weight: 500;
   color: #555555;
 }
 
 .news-line {
-  flex: 1;
-  border-bottom: 1px dashed #cfcfcf;
-  margin: 0 10px 4px 8px;
-  min-width: 20px;
+  width: 22px;
+  flex: 0 0 22px;
+  border-bottom: 1px dashed #bdbdbd;
+  margin: 0 9px 4px 9px;
 }
 
 .news-text {
-  flex: 0 1 auto;
-  max-width: 78%;
+  flex: 1;
   color: #222222;
 }
 

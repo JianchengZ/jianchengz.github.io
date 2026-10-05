@@ -14,7 +14,41 @@ redirect_from:
   font-weight: 600 !important;
   line-height: 1.35;
 }
+
+.venue-short {
+  font-weight: 700;
+  margin-right: 4px;
+}
+
+.venue-icml {
+  color: #4f6fdc;
+}
+
+.venue-iclr {
+  color: #a94f5f;
+}
+
+.venue-tmlr {
+  color: #2f8a72;
+}
+
+.venue-plos {
+  color: #8b55a3;
+}
+
+.venue-preprint {
+  color: #777777;
+}
+
+.venue-review {
+  color: #d07a27;
+}
+
+.venue-iccse {
+  color: #527b47;
+}
 </style>
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -93,7 +127,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 - <span class="pub-title"> Active Learning with Foundation Model Priors: Efficient Learning under Class Imbalance </span><br>
   `Jiancheng Zhang`, Meiqing Li, Qi Zhang, Yinglun Zhu\*<br>
-  International Conference on Machine Learning (ICML), 2026. [<a href="https://icml.cc/virtual/2026/poster/60881">Paper</a>]
+    <span class="venue-short venue-icml">ICML 2026</span> International Conference on Machine Learning. [<a href="https://icml.cc/virtual/2026/poster/60881">Paper</a>]
 
 - <span class="pub-title"> Mixtraining: A Better Trade-Off Between Compute and Performance </span><br>
 Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu\*, Cong Liu<br>

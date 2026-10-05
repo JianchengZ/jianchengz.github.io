@@ -115,7 +115,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
  <div class="news-row">
     <span class="news-date">2026.10</span>
-    <span class="news-text">I Serve as a reviewer for ICLR 2027.</span>
+    <span class="news-text">I serve as a reviewer for ICLR 2027.</span>
   </div>
 
   <div class="news-row">
@@ -130,12 +130,14 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
   <div class="news-row">
     <span class="news-date">2026.03</span>
-    <span class="news-text">One paper is accepted at TMLR 2026.</span>
+    <span class="news-text">  <a href="https://openreview.net/forum?id=xMLajoct78"
+        style="color:#224b8d; font-weight:700; text-decoration:none;">Multimodal AL is accepted at <span class="venue-short venue-tmlr">TMLR 2026</span>.</span>
   </div>
 
   <div class="news-row">
     <span class="news-date">2026.02</span>
-    <span class="news-text">One paper is accepted at TMLR 2026.</span>
+    <span class="news-text">  <a href="https://openreview.net/forum?id=NVpS2g9KRo"
+        style="color:#224b8d; font-weight:700; text-decoration:none;">Mixtraining is accepted at <span class="venue-short venue-tmlr">TMLR 2026</span>.</span>
   </div>
 
   <div class="news-row">
@@ -148,7 +150,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
   <div class="news-row">
     <span class="news-date">2025.09</span>
-    <span class="news-text">I Serve as a reviewer for ICLR 2026.</span>
+    <span class="news-text">I serve as a reviewer for ICLR 2026.</span>
   </div>
 
   <div class="news-row">
@@ -164,12 +166,12 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
   <div class="news-row">
     <span class="news-date">2025.03</span>
-    <span class="news-text">I Serve as a reviewer for ICML 2025.</span>
+    <span class="news-text">I serve as a reviewer for ICML 2025.</span>
   </div>
 
   <div class="news-row">
     <span class="news-date">2024.09</span>
-    <span class="news-text">I Serve as a reviewer for ICLR 2025.</span>
+    <span class="news-text">I serve as a reviewer for ICLR 2025.</span>
   </div>
 
   <div class="news-row">

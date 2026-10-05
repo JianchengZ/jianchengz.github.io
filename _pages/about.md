@@ -155,7 +155,7 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 
 
 
-<span class='anchor' id='-Educations'></span>
+<span class='anchor' id='-Education'></span>
 
 # 🎓 Education
 - 2024.09 - Now, PhD Student, <a href="https://www.ucr.edu/">University of California, Riverside</a> 
@@ -166,7 +166,7 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 
 
 
-<span class='anchor' id='-Others'></span>
+<span class='anchor' id='-Experience'></span>
 
 # 💼 Experience
 ### Intern Experience

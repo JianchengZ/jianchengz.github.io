@@ -120,7 +120,8 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
   <div class="news-row">
     <span class="news-date">2026.04</span>
-    <span class="news-text">One paper is accepted at ICML 2026.</span>
+    <span class="news-text"> <a href="https://icml.cc/virtual/2026/poster/60881"
+        style="color:#224b8d; font-weight:700; text-decoration:none;">PriorAL is accepted at <span class="venue-short venue-icml">ICML 2026</span>.</span>
   </div>
 
   <div class="news-row">

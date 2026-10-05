@@ -11,13 +11,19 @@ redirect_from:
 <style>
 .pub-title {
   font-size: 1.05rem !important;
-  font-weight: 500 !important;
+  font-weight: 550 !important;
   line-height: 1.35;
 }
 
 .venue-short {
-  font-weight: 700;
-  margin-right: 4px;
+  display: inline-block;
+  padding: 2px 7px;
+  margin-right: 5px;
+  border-radius: 3px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: white;
+  line-height: 1.3;
 }
 
 .venue-icml {

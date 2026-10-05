@@ -18,12 +18,12 @@ redirect_from:
 
 .venue-short {
   display: inline-block;
-  padding: 2px 7px;
+  padding: 1px 6px;
   margin-right: 5px;
 
-  font-size: 1rem;
+  font-size: 0.95rem;
   font-weight: 600;
-  line-height: 1.25;
+  line-height: 1.2;
 
   border-radius: 6px;
 }

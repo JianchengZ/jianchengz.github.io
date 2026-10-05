@@ -29,7 +29,8 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 <span class='anchor' id='-News'></span>
 
-# News
+<!-- # News -->
+# 🔥 News
 
 <div markdown="1" style="
     max-height: 325px;
@@ -63,7 +64,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 <span class='anchor' id='-Publications'></span>
 
-# Publications [<a href="https://scholar.google.com/citations?hl=en&user=tIKc8voAAAAJ&view_op=list_works&gmla=A[…]ho3HWBaDojBo8vRM3HCL1dK1AEj4PG4QjDQjqeEDXf3Z-VQYmncjW_rAbJs">Google Scholar</a>] 
+# 📝 Publications [<a href="https://scholar.google.com/citations?hl=en&user=tIKc8voAAAAJ&view_op=list_works&gmla=A[…]ho3HWBaDojBo8vRM3HCL1dK1AEj4PG4QjDQjqeEDXf3Z-VQYmncjW_rAbJs">Google Scholar</a>] 
 
 (* Corresponding authors; # Equal contribution)
 
@@ -113,7 +114,7 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 
 <span class='anchor' id='-Services'></span>
 
-# Services
+# 🧑‍🏫 Services
 ### Conference Reviewer
 
 - International Conference on Learning Representations (ICLR), 2027
@@ -137,7 +138,7 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 
 <span class='anchor' id='-Awards'></span>
 
-# Awards
+# 🎖️ Awards
 - UCR Dean's Distinguished Fellowship, 2024
 - 2022 SDU School of Software Scholarship, 2022
 - 2022 SDU School of Software Specialty Scholarship, 2022
@@ -146,7 +147,7 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
   
 <span class='anchor' id='-Teaching'></span>
 
-# Teaching
+# 📚 Teaching
 ### Teaching Assistant (TA) at UCR:
 - EE114: Probability, Random Variables, and Random Processes in Electrical Engineering, Fall’2025
 - EE114: Probability, Random Variables, and Random Processes in Electrical Engineering, Winter’2025
@@ -156,7 +157,7 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 
 <span class='anchor' id='-Educations'></span>
 
-# Educations
+# 🎓 Education
 - 2024.09 - Now, PhD Student, <a href="https://www.ucr.edu/">University of California, Riverside</a> 
 - 2020.09 - 2024.06, Undergraduate, <a href="https://www.sdu.edu.cn/">Shandong University</a> 
  
@@ -167,7 +168,7 @@ In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2
 
 <span class='anchor' id='-Others'></span>
 
-# Others
+# 💼 Experience
 ### Intern Experience
 
 - New York University<br>

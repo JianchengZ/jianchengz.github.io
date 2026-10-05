@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
 .pub-title {
-  font-size: 1.1rem !important;
+  font-size: 1.15rem !important;
   font-weight: 550 !important;
   line-height: 1.35;
 }
@@ -18,10 +18,10 @@ redirect_from:
 
 .venue-short {
   display: inline-block;
-  padding: 1px 6px;
+  padding: 1.2px 6px;
   margin-right: 5px;
 
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   font-weight: 600;
   line-height: 1.2;
 

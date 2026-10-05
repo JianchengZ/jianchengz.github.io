@@ -51,19 +51,37 @@ redirect_from:
   background-color: #eee9f3;
 }
 
-.venue-review {
-  color: #8b6b3f;
-  background-color: #f4ede3;
-}
-
-.venue-preprint {
-  color: #666666;
-  background-color: #eeeeee;
-}
 
 .venue-iccse {
   color: #5f6f45;
   background-color: #edf1e5;
+}
+
+
+.news-row {
+  display: flex;
+  align-items: baseline;
+  width: 100%;
+  margin-bottom: 6px;
+}
+
+.news-date {
+  flex: 0 0 62px;
+  font-weight: 500;
+  color: #555555;
+}
+
+.news-line {
+  flex: 1;
+  border-bottom: 1px dashed #cfcfcf;
+  margin: 0 10px 4px 8px;
+  min-width: 20px;
+}
+
+.news-text {
+  flex: 0 1 auto;
+  max-width: 78%;
+  color: #222222;
 }
 
 </style>
@@ -101,7 +119,74 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
     line-height: 1.6;
 ">
 
-### 2026
+ <div class="news-row">
+    <span class="news-date">2026.10</span>
+    <span class="news-line"></span>
+    <span class="news-text">I Serve as a reviewer for ICLR 2027.</span>
+  </div>
+
+  <div class="news-row">
+    <span class="news-date">2026.04</span>
+    <span class="news-line"></span>
+    <span class="news-text">One paper is accepted at ICML 2026.</span>
+  </div>
+
+  <div class="news-row">
+    <span class="news-date">2026.04</span>
+    <span class="news-line"></span>
+    <span class="news-text">I will serve as a reviewer for NeurIPS 2026.</span>
+  </div>
+
+  <div class="news-row">
+    <span class="news-date">2026.03</span>
+    <span class="news-line"></span>
+    <span class="news-text">One paper is accepted at TMLR 2026.</span>
+  </div>
+
+  <div class="news-row">
+    <span class="news-date">2026.02</span>
+    <span class="news-line"></span>
+    <span class="news-text">One paper is accepted at TMLR 2026.</span>
+  </div>
+
+  <div class="news-row">
+    <span class="news-date">2026.01</span>
+    <span class="news-line"></span>
+    <span class="news-text">One paper is accepted at ICLR 2026.</span>
+  </div>
+
+  <div class="news-row">
+    <span class="news-date">2025.09</span>
+    <span class="news-line"></span>
+    <span class="news-text">I Serve as a reviewer for ICLR 2026.</span>
+  </div>
+
+  <div class="news-row">
+    <span class="news-date">2025.08</span>
+    <span class="news-line"></span>
+    <span class="news-text">One paper is accepted at PLOS Computational Biology.</span>
+  </div>
+
+  <div class="news-row">
+    <span class="news-date">2025.03</span>
+    <span class="news-line"></span>
+    <span class="news-text">I Serve as a reviewer for ICML 2025.</span>
+  </div>
+
+  <div class="news-row">
+    <span class="news-date">2024.09</span>
+    <span class="news-line"></span>
+    <span class="news-text">I Serve as a reviewer for ICLR 2025.</span>
+  </div>
+
+  <div class="news-row">
+    <span class="news-date">2024.09</span>
+    <span class="news-line"></span>
+    <span class="news-text">I join UC Riverside and the Zhu Lab.</span>
+  </div>
+
+
+<!-- ### 2026
 
 - 09/2026: I serve as a reviewer for ICLR 2027.
 - 04/2026: One paper is accepted by ICML 2026.
@@ -118,7 +203,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 ### 2024
 - 09/2024: I would serve as a reviewer for ICLR 2025.
-- 05/2024: I accepted the offer from UCR and joined the Zhu Lab.
+- 05/2024: I accepted the offer from UCR and joined the Zhu Lab. -->
 
 </div>
 

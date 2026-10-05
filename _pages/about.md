@@ -20,39 +20,39 @@ redirect_from:
   display: inline-block;
   padding: 2px 6px;
   margin-right: 5px;
-  font-size: 0.85rem;
+  font-size: 0.84rem;
   font-weight: 600;
-  border-radius: 0;
-  line-height: 1.3;
-}
+  line-height: 1.25;
 
+  border-radius: 4px;
+}
 .venue-icml {
-  color: #2f5fb3;
-  background-color: #dfe9fb;
+  color: #3f5f96;
+  background-color: #e8eef8;
 }
 
 .venue-iclr {
-  color: #a44757;
-  background-color: #f6e2e6;
+  color: #8a5660;
+  background-color: #f3e8eb;
 }
 
 .venue-tmlr {
-  color: #2f7d68;
-  background-color: #dff1eb;
+  color: #4f7467;
+  background-color: #e7f0ec;
 }
 
 .venue-plos {
-  color: #7a4d9c;
-  background-color: #eee3f5;
+  color: #735c87;
+  background-color: #eee9f3;
 }
 
 .venue-review {
-  color: #a8661f;
-  background-color: #f8ead9;
+  color: #8b6b3f;
+  background-color: #f4ede3;
 }
 
 .venue-preprint {
-  color: #555555;
+  color: #666666;
   background-color: #eeeeee;
 }
 </style>

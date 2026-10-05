@@ -69,45 +69,45 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 (* Corresponding authors; # Equal contribution)
 
 
-- <u>Towards Multimodal Generative Active Learning: Efficient Learning via Uncertainty Dynamics</u> <br>
+- <span class="pub-title"> Towards Multimodal Generative Active Learning: Efficient Learning via Uncertainty Dynamics </span>
   `Jiancheng Zhang`, Zeli Liu, Bowen Zuo, Cong Liu, Yinglun Zhu\*<br>
   Under Review, 2026. 
 
-- <u>Balancing Quality and Coverage in Diffusion Language Models with Adaptive Risk Portfolios</u> <br>
+- <span class="pub-title"> Balancing Quality and Coverage in Diffusion Language Models with Adaptive Risk Portfolios </span>
   Bowen Zuo, Yue Yu, `Jiancheng Zhang`, Zeli Liu, Lei Zhao, Bohao Qu, Cong Liu, David J. Crandall, Yinglun Zhu\*<br>
   Under Review, 2026. 
 
 
-- <u>Active Testing of Large Language Models via Approximate Neyman Allocation</u> <br>
+- <span class="pub-title"> Active Testing of Large Language Models via Approximate Neyman Allocation </span> 
   Zeli Liu, `Jiancheng Zhang`, Cong Liu, Yinglun Zhu\*<br>
   Preprint, 2026. [<a href="https://arxiv.org/pdf/2605.10075v1">arXiv</a>]
 
 
-- <u>Active Learning with Foundation Model Priors: Efficient Learning under Class Imbalance</u> <br>
+- <span class="pub-title"> Active Learning with Foundation Model Priors: Efficient Learning under Class Imbalance </span>
   `Jiancheng Zhang`, Meiqing Li, Qi Zhang, Yinglun Zhu\*<br>
   International Conference on Machine Learning (ICML), 2026. [<a href="https://icml.cc/virtual/2026/poster/60881">Paper</a>]
 
-- <u>Mixtraining: A Better Trade-Off Between Compute and Performance</u><br>
+- <span class="pub-title"> Mixtraining: A Better Trade-Off Between Compute and Performance </span>
 Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu\*, Cong Liu<br>
 Transactions on Machine Learning Research (TMLR), 2026. [<a href="https://openreview.net/forum?id=NVpS2g9KRo">Paper</a>]
 
-- <u>Towards Multimodal Active Learning: Efficient Learning with Limited Paired Data</u><br>
+- <span class="pub-title"> Towards Multimodal Active Learning: Efficient Learning with Limited Paired Data </span>
 `Jiancheng Zhang`, Yinglun Zhu\*<br>
 Transactions on Machine Learning Research (TMLR), 2026. [<a href="https://openreview.net/forum?id=xMLajoct78">Paper</a>]
 
-- <u>Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models</u><br>
+- <span class="pub-title"> Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models </span>
 Yinglun Zhu\*, `Jiancheng Zhang`, Fuzhi Tang<br>
 International Conference on Learning Representations (ICLR), 2026. [<a href="https://openreview.net/attachment?id=wWxdT6LB2D&name=pdf">Paper</a>]
 
-- <u>Reconstructing Noisy Gene Regulation Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations</u><br>
+- <span class="pub-title"> Reconstructing Noisy Gene Regulation Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations </span>
 `Jiancheng Zhang#`, Xiangting Li#, Xiaolu Guo#, Zhaoyi You, Lucas Böttcher, Alex Mogilner, Alexander Hoffmann, Tom Chou\*, Mingtao Xia\*<br>
 PLOS Computational Biology, 2025. [<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013462">Paper</a>]
 
-- <u>Knowledge Distillation In Medical Data Mining: A Survey</u><br>
+- <span class="pub-title"> Knowledge Distillation In Medical Data Mining: A Survey </span>
 Hefeng Meng, Zhiqiang Lin, Fan Yang, `Jiancheng Zhang`, Wei He, Yonghui Xu\*, Lizhen Cui\* <br>
 In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2021. [<a href="https://dl.acm.org/doi/abs/10.1145/3503181.3503211">Paper</a>]
 
-- <u>A Survey on Knowledge Enhanced EHR Data Mining</u><br>
+- <span class="pub-title"> A Survey on Knowledge Enhanced EHR Data Mining </span>
 `Jiancheng Zhang`, Xiao Yang, Hefeng Meng, Zhiqiang Lin, Yonghui Xu\*, Lizhen Cui\* <br>
 In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2021. [<a href="https://dl.acm.org/doi/abs/10.1145/3503181.3503202">Paper</a>]
 

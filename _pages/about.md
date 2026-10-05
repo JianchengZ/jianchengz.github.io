@@ -67,8 +67,14 @@ redirect_from:
   border-bottom: 1px dashed #d0d0d0;
 }
 
-.news-date {
+/* .news-date {
   flex: 0 0 72px;
+  font-weight: 600;
+  color: #555555;
+} */
+
+.news-date {
+  flex: 0 0 88px;
   font-weight: 600;
   color: #555555;
 }

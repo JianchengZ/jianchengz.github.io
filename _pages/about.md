@@ -143,7 +143,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
     <span class="news-text"> <a href="https://openreview.net/attachment?id=wWxdT6LB2D&name=pdf"
         style="color:#224b8d; font-weight:700; text-decoration:none;">
         Test-Time Matching
-      </a>  is accepted at ICLR 2026.</span>
+      </a>  is accepted at <span class="venue-short venue-iclr">ICLR 2026</span>.</span>
   </div>
 
   <div class="news-row">

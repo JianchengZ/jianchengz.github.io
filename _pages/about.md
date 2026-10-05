@@ -150,7 +150,13 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
   <div class="news-row">
     <span class="news-date">2025.08</span>
-    <span class="news-text">One paper,  [<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013462">Reconstructing Noisy Gene Regulation Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations</a>], is accepted at PLOS Computational Biology.</span>
+    <span class="news-text">
+      <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013462"
+        style="color:#224b8d; font-weight:700; text-decoration:none;">
+        END-nSDE
+      </a>
+      is accepted at PLOS Computational Biology.
+    </span>
   </div>
 
   <div class="news-row">

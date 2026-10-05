@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
 .pub-title {
-  font-size: 1.2em !important;
+  font-size: 1.15em !important;
   font-weight: 700 !important;
 }
 </style>

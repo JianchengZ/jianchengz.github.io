@@ -74,7 +74,7 @@ redirect_from:
 } */
 
 .news-date {
-  flex: 0 0 88px;
+  flex: 0 0 100px;
   font-weight: 600;
   color: #555555;
 }

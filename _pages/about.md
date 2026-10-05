@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.pub-title {
+  font-size: 1.35em !important;
+  font-weight: 700 !important;
+  line-height: 1.35;
+}
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}

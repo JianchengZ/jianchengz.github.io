@@ -62,20 +62,15 @@ redirect_from:
   display: flex;
   align-items: baseline;
   width: 100%;
-  margin-bottom: 6px;
+
+  padding: 6px 0;
+  border-bottom: 1px dashed #d0d0d0;
 }
 
 .news-date {
-  flex: 0 0 58px;
-  font-weight: 500;
+  flex: 0 0 72px;
+  font-weight: 600;
   color: #555555;
-}
-
-.news-line {
-  width: 22px;
-  flex: 0 0 22px;
-  border-bottom: 1px dashed #bdbdbd;
-  margin: 0 9px 4px 9px;
 }
 
 .news-text {
@@ -120,67 +115,56 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
  <div class="news-row">
     <span class="news-date">2026.10</span>
-    <span class="news-line"></span>
     <span class="news-text">I Serve as a reviewer for ICLR 2027.</span>
   </div>
 
   <div class="news-row">
     <span class="news-date">2026.04</span>
-    <span class="news-line"></span>
     <span class="news-text">One paper is accepted at ICML 2026.</span>
   </div>
 
   <div class="news-row">
     <span class="news-date">2026.04</span>
-    <span class="news-line"></span>
     <span class="news-text">I will serve as a reviewer for NeurIPS 2026.</span>
   </div>
 
   <div class="news-row">
     <span class="news-date">2026.03</span>
-    <span class="news-line"></span>
     <span class="news-text">One paper is accepted at TMLR 2026.</span>
   </div>
 
   <div class="news-row">
     <span class="news-date">2026.02</span>
-    <span class="news-line"></span>
     <span class="news-text">One paper is accepted at TMLR 2026.</span>
   </div>
 
   <div class="news-row">
     <span class="news-date">2026.01</span>
-    <span class="news-line"></span>
     <span class="news-text">One paper is accepted at ICLR 2026.</span>
   </div>
 
   <div class="news-row">
     <span class="news-date">2025.09</span>
-    <span class="news-line"></span>
     <span class="news-text">I Serve as a reviewer for ICLR 2026.</span>
   </div>
 
   <div class="news-row">
     <span class="news-date">2025.08</span>
-    <span class="news-line"></span>
     <span class="news-text">One paper is accepted at PLOS Computational Biology.</span>
   </div>
 
   <div class="news-row">
     <span class="news-date">2025.03</span>
-    <span class="news-line"></span>
     <span class="news-text">I Serve as a reviewer for ICML 2025.</span>
   </div>
 
   <div class="news-row">
     <span class="news-date">2024.09</span>
-    <span class="news-line"></span>
     <span class="news-text">I Serve as a reviewer for ICLR 2025.</span>
   </div>
 
   <div class="news-row">
     <span class="news-date">2024.09</span>
-    <span class="news-line"></span>
     <span class="news-text">I join UC Riverside and the Zhu Lab.</span>
   </div>
 

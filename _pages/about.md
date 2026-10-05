@@ -18,13 +18,14 @@ redirect_from:
 
 .venue-short {
   display: inline-block;
-  padding: 2px 6px;
+  padding: 2px 7px;
   margin-right: 5px;
-  font-size: 0.84rem;
+
+  font-size: 1rem;
   font-weight: 600;
   line-height: 1.25;
 
-  border-radius: 4px;
+  border-radius: 6px;
 }
 .venue-icml {
   color: #3f5f96;

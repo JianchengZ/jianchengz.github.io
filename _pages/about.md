@@ -131,45 +131,45 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 
 - <span class="pub-title"> Towards Multimodal Generative Active Learning: Efficient Learning via Uncertainty Dynamics </span><br>
-  `Jiancheng Zhang`, Zeli Liu, Bowen Zuo, Cong Liu, Yinglun Zhu\*<br>
+  **Jiancheng Zhang**, Zeli Liu, Bowen Zuo, Cong Liu, Yinglun Zhu\*<br>
   Under Review, 2026. 
 
 - <span class="pub-title"> Balancing Quality and Coverage in Diffusion Language Models with Adaptive Risk Portfolios </span><br>
-  Bowen Zuo, Yue Yu, `Jiancheng Zhang`, Zeli Liu, Lei Zhao, Bohao Qu, Cong Liu, David J. Crandall, Yinglun Zhu\*<br>
+  Bowen Zuo, Yue Yu, **Jiancheng Zhang**, Zeli Liu, Lei Zhao, Bohao Qu, Cong Liu, David J. Crandall, Yinglun Zhu\*<br>
   Under Review, 2026. 
 
 
 - <span class="pub-title"> Active Testing of Large Language Models via Approximate Neyman Allocation </span> <br>
-  Zeli Liu, `Jiancheng Zhang`, Cong Liu, Yinglun Zhu\*<br>
+  Zeli Liu, **Jiancheng Zhang**, Cong Liu, Yinglun Zhu\*<br>
   Preprint, 2026. [<a href="https://arxiv.org/pdf/2605.10075v1">arXiv</a>]
 
 
 - <span class="pub-title"> Active Learning with Foundation Model Priors: Efficient Learning under Class Imbalance </span><br>
-  `Jiancheng Zhang`, Meiqing Li, Qi Zhang, Yinglun Zhu\*<br>
+  **Jiancheng Zhang**, Meiqing Li, Qi Zhang, Yinglun Zhu\*<br>
     <span class="venue-short venue-icml">ICML 2026</span> <span class="venue-full">International Conference on Machine Learning.</span> [<a href="https://icml.cc/virtual/2026/poster/60881">Paper</a>]
 
 - <span class="pub-title"> Mixtraining: A Better Trade-Off Between Compute and Performance </span><br>
-Zexin Li#, `Jiancheng Zhang#`, Yufei Li, Yinglun Zhu\*, Cong Liu<br>
+Zexin Li#, **Jiancheng Zhang#**, Yufei Li, Yinglun Zhu\*, Cong Liu<br>
 <span class="venue-short venue-tmlr">TMLR 2026</span> <span class="venue-full">Transactions on Machine Learning Research.</span> [<a href="https://openreview.net/forum?id=NVpS2g9KRo">Paper</a>]
 
 - <span class="pub-title"> Towards Multimodal Active Learning: Efficient Learning with Limited Paired Data </span><br>
-`Jiancheng Zhang`, Yinglun Zhu\*<br>
+**Jiancheng Zhang**, Yinglun Zhu\*<br>
 <span class="venue-short venue-tmlr">TMLR 2026</span> <span class="venue-full">Transactions on Machine Learning Research.</span> [<a href="https://openreview.net/forum?id=xMLajoct78">Paper</a>]
 
 - <span class="pub-title"> Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models </span><br>
-Yinglun Zhu\*, `Jiancheng Zhang`, Fuzhi Tang<br>
+Yinglun Zhu\*, **Jiancheng Zhang**, Fuzhi Tang<br>
 <span class="venue-short venue-iclr">ICLR 2026</span> <span class="venue-full">International Conference on Learning Representations.</span> [<a href="https://openreview.net/attachment?id=wWxdT6LB2D&name=pdf">Paper</a>]
 
 - <span class="pub-title"> Reconstructing Noisy Gene Regulation Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations </span><br>
-`Jiancheng Zhang#`, Xiangting Li#, Xiaolu Guo#, Zhaoyi You, Lucas Böttcher, Alex Mogilner, Alexander Hoffmann, Tom Chou\*, Mingtao Xia\*<br>
+**Jiancheng Zhang#**, Xiangting Li#, Xiaolu Guo#, Zhaoyi You, Lucas Böttcher, Alex Mogilner, Alexander Hoffmann, Tom Chou\*, Mingtao Xia\*<br>
 <span class="venue-short venue-plos">PLOS CB 2025</span> <span class="venue-full">PLOS Computational Biology.</span> [<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013462">Paper</a>]
 
 - <span class="pub-title"> Knowledge Distillation In Medical Data Mining: A Survey </span><br>
-Hefeng Meng, Zhiqiang Lin, Fan Yang, `Jiancheng Zhang`, Wei He, Yonghui Xu\*, Lizhen Cui\* <br>
+Hefeng Meng, Zhiqiang Lin, Fan Yang, **Jiancheng Zhang**, Wei He, Yonghui Xu\*, Lizhen Cui\* <br>
 <span class="venue-short venue-iccse">ICCSE 2021</span> <span class="venue-full">In 5th International Conference on Crowd Science and Engineering.</span> [<a href="https://dl.acm.org/doi/abs/10.1145/3503181.3503211">Paper</a>]
 
 - <span class="pub-title"> A Survey on Knowledge Enhanced EHR Data Mining </span><br>
-`Jiancheng Zhang`, Xiao Yang, Hefeng Meng, Zhiqiang Lin, Yonghui Xu\*, Lizhen Cui\* <br>
+**Jiancheng Zhang**, Xiao Yang, Hefeng Meng, Zhiqiang Lin, Yonghui Xu\*, Lizhen Cui\* <br>
 <span class="venue-short venue-iccse">ICCSE 2021</span> <span class="venue-full">In 5th International Conference on Crowd Science and Engineering.</span> [<a href="https://dl.acm.org/doi/abs/10.1145/3503181.3503202">Paper</a>]
 
 

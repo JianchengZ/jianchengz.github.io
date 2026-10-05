@@ -56,6 +56,12 @@ redirect_from:
   color: #666666;
   background-color: #eeeeee;
 }
+
+.venue-iccse {
+  color: #5f6f45;
+  background-color: #edf1e5;
+}
+
 </style>
 
 
@@ -156,11 +162,11 @@ Yinglun Zhu\*, `Jiancheng Zhang`, Fuzhi Tang<br>
 
 - <span class="pub-title"> Knowledge Distillation In Medical Data Mining: A Survey </span><br>
 Hefeng Meng, Zhiqiang Lin, Fan Yang, `Jiancheng Zhang`, Wei He, Yonghui Xu\*, Lizhen Cui\* <br>
-In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2021. [<a href="https://dl.acm.org/doi/abs/10.1145/3503181.3503211">Paper</a>]
+<span class="venue-short venue-iccse">ICCSE 2021</span> In 5th International Conference on Crowd Science and Engineering. [<a href="https://dl.acm.org/doi/abs/10.1145/3503181.3503211">Paper</a>]
 
 - <span class="pub-title"> A Survey on Knowledge Enhanced EHR Data Mining </span><br>
 `Jiancheng Zhang`, Xiao Yang, Hefeng Meng, Zhiqiang Lin, Yonghui Xu\*, Lizhen Cui\* <br>
-In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2021. [<a href="https://dl.acm.org/doi/abs/10.1145/3503181.3503202">Paper</a>]
+<span class="venue-short venue-iccse">ICCSE 2021</span> In 5th International Conference on Crowd Science and Engineering. [<a href="https://dl.acm.org/doi/abs/10.1145/3503181.3503202">Paper</a>]
 
 
 <span class='anchor' id='-Services'></span>

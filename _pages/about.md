@@ -123,7 +123,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
     max-height: 325px;
     overflow-y: scroll;
     padding-right: 0.5rem;
-    font-size: 0.95rem;
+    /* font-size: 0.95rem; */
     line-height: 1.6;
 ">
 

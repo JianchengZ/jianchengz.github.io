@@ -226,16 +226,16 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 
 - <span class="pub-title"> Towards Multimodal Generative Active Learning: Efficient Learning via Uncertainty Dynamics </span><br>
   **Jiancheng Zhang**, Zeli Liu, Bowen Zuo, Cong Liu, Yinglun Zhu\*<br>
-  <span class="venue-short venue-submission">In submission</span>. 
+  <span class="venue-short venue-submission">In submission</span> 
 
 - <span class="pub-title"> Balancing Quality and Coverage in Diffusion Language Models with Adaptive Risk Portfolios </span><br>
   Bowen Zuo, Yue Yu, **Jiancheng Zhang**, Zeli Liu, Lei Zhao, Bohao Qu, Cong Liu, David J. Crandall, Yinglun Zhu\*<br>
-  <span class="venue-short venue-submission">In submission</span>. 
+  <span class="venue-short venue-submission">In submission</span> 
 
 
 - <span class="pub-title"> Active Testing of Large Language Models via Approximate Neyman Allocation </span> <br>
   Zeli Liu, **Jiancheng Zhang**, Cong Liu, Yinglun Zhu\*<br>
-  <span class="venue-short venue-submission">In submission</span>. [<a href="https://arxiv.org/pdf/2605.10075v1">arXiv</a>]
+  <span class="venue-short venue-submission">In submission</span> [<a href="https://arxiv.org/pdf/2605.10075v1">arXiv</a>]
 
 
 - <span class="pub-title"> Active Learning with Foundation Model Priors: Efficient Learning under Class Imbalance </span><br>

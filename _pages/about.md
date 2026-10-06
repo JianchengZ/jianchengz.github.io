@@ -35,7 +35,7 @@ redirect_from:
 
 .venue-submission {
   color: #ffffff;
-  background-color: #b26a2f;
+  background-color: #f4ece6;
 }
 
 

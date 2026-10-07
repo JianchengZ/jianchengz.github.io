@@ -101,13 +101,12 @@ redirect_from:
   border-radius: 8px;
   padding: 10px 12px;
 
-  max-width: 760px;
+  max-width: 820px;
   margin: 22px auto 26px auto;
 
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
   box-sizing: border-box;
 }
-
 .collab-note {
   position: relative;
   background: #fff8dc;
@@ -116,9 +115,12 @@ redirect_from:
   border-radius: 3px;
   transform: rotate(-0.7deg);
   box-shadow: 3px 4px 8px rgba(0, 0, 0, 0.25);
-  font-size: 0.96rem;
+
+  font-size: 1rem;
+
   line-height: 1.6;
 }
+
 
 /* push pin */
 .collab-note::before {

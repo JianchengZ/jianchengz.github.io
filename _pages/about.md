@@ -95,11 +95,17 @@ redirect_from:
 /* Collaboration post */
 .collab-board {
   position: relative;
-  background: #202020;
-  border-radius: 10px;
-  padding: 22px 24px;
-  margin: 24px 0 28px 0;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+
+  background: #79685c;
+
+  border-radius: 8px;
+  padding: 10px 12px;
+
+  max-width: 760px;
+  margin: 22px auto 26px auto;
+
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
+  box-sizing: border-box;
 }
 
 .collab-note {

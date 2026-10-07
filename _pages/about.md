@@ -104,7 +104,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in the ECE department at UC Riverside, supervised by <a href="https://yinglunz.com/" target="_blue">Dr. Yinglun Zhu</a>. Before this, I earned a BS in Software Engineering at Shandong University under the advice of <a href="https://faculty.sdu.edu.cn/xuyonghui1/zh_CN/index.htm" target="_blue">Dr. Yonghui Xu</a>, and I also worked under the advice of <a href="https://sites.google.com/nyu.edu/mingtao-xia/home" target="_blue">Dr. Mingtao Xia</a> from New York University. <a href="/_pages/CV.pdf" target="_blank">Download my Curriculum Vitae</a>. 
+I am a Ph.D. student in the Department of Electrical and Computer Engineering at the University of California, Riverside, where I am fortunate to be advised by <a href="https://yinglunz.com/" target="_blue">Prof. Yinglun Zhu</a>. Prior to that, I received my bachelor’s degree in Software Engineering from Shandong University. <a href="/_pages/CV.pdf" target="_blank">Download my Curriculum Vitae</a>. 
 
 
 My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b>artificial intelligence</b>. I'm especially interested in delving into the following research areas:

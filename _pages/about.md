@@ -92,6 +92,53 @@ redirect_from:
   color: #222222;
 }
 
+/* Collaboration post */
+.collab-board {
+  position: relative;
+  background: #202020;
+  border-radius: 10px;
+  padding: 22px 24px;
+  margin: 24px 0 28px 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.collab-note {
+  position: relative;
+  background: #fff8dc;
+  color: #2b2b2b;
+  padding: 18px 22px;
+  border-radius: 3px;
+  transform: rotate(-0.7deg);
+  box-shadow: 3px 4px 8px rgba(0, 0, 0, 0.25);
+  font-size: 0.96rem;
+  line-height: 1.6;
+}
+
+/* push pin */
+.collab-note::before {
+  content: "";
+  position: absolute;
+  top: -8px;
+  left: 50%;
+  width: 15px;
+  height: 15px;
+  background: #b85c5c;
+  border-radius: 50%;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.35);
+  transform: translateX(-50%);
+}
+
+.collab-title {
+  font-size: 1.08rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.collab-note:hover {
+  transform: rotate(0deg) translateY(-2px);
+  transition: 0.2s ease;
+}
+
 </style>
 
 
@@ -113,6 +160,14 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
 - Large Language Models (LLMs)
 - Multimodal Models
 - Efficient Machine Learning
+
+<div class="collab-board">
+  <div class="collab-note">
+    <div class="collab-title">📌 Open to Collaborate!</div>
+    I am always open to research collaborations and am currently seeking research internship opportunities. Please feel free to reach out if our research interests align.
+  </div>
+</div>
+
 
 <span class='anchor' id='-News'></span>
 

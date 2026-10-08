@@ -65,6 +65,10 @@ redirect_from:
   background-color: #edf1e5;
 }
 
+.venue-neurips {
+  color: #287f86;
+  background-color: #e4f2f2;
+}
 
 .news-row {
   display: flex;
@@ -189,6 +193,11 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
     /* font-size: 0.95rem; */
     line-height: 1.6;
 ">
+
+ <div class="news-row">
+    <span class="news-date">2026.10</span>
+      <span class="news-text"> I was awarded Top Reviewer for  <span class="venue-short venue-neurips"> NeurIPS 2026</span>.</span>
+  </div>
 
  <div class="news-row">
     <span class="news-date">2026.10</span>

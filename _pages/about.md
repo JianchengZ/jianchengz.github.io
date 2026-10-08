@@ -345,7 +345,7 @@ Hefeng Meng, Zhiqiang Lin, Fan Yang, **Jiancheng Zhang**, Wei He, Yonghui Xu\*, 
 ### Conference Reviewer
 
 - International Conference on Learning Representations (ICLR), 2027
-- Neural Information Processing Systems (NeurIPS), 2026
+- Neural Information Processing Systems (NeurIPS), 2026 
 - Conference on Language Modeling (COLM), 2026
 - International Conference on Learning Representations (ICLR), 2026
 - International Conference on Machine Learning (ICML), 2025
@@ -366,6 +366,7 @@ Hefeng Meng, Zhiqiang Lin, Fan Yang, **Jiancheng Zhang**, Wei He, Yonghui Xu\*, 
 <span class='anchor' id='-Awards'></span>
 
 # 🎖️ Awards
+- Top Reviewer, NeurIPS 2026
 - UCR Dean's Distinguished Fellowship, 2024
 - 2022 SDU School of Software Scholarship, 2022
 - 2022 SDU School of Software Specialty Scholarship, 2022

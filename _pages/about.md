@@ -315,7 +315,7 @@ My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b
     <span class="venue-short venue-icml">ICML 2026</span> <span class="venue-full">International Conference on Machine Learning</span> [<a href="https://icml.cc/virtual/2026/poster/60881">Paper</a>]
 
 - <span class="pub-title"> Mixtraining: A Better Trade-Off Between Compute and Performance </span><br>
-Zexin Li#, **Jiancheng Zhang**, Yufei Li, Yinglun Zhu\*, Cong Liu<br>
+Zexin Li#, **Jiancheng Zhang#**, Yufei Li, Yinglun Zhu\*, Cong Liu<br>
 <span class="venue-short venue-tmlr">TMLR 2026</span> <span class="venue-full">Transactions on Machine Learning Research</span> [<a href="https://openreview.net/forum?id=NVpS2g9KRo">Paper</a>]
 
 - <span class="pub-title"> Towards Multimodal Active Learning: Efficient Learning with Limited Paired Data </span><br>

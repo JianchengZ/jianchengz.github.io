@@ -165,13 +165,14 @@ redirect_from:
 
 I am a Ph.D. student in the Department of Electrical and Computer Engineering at the University of California, Riverside, where I am fortunate to be advised by <a href="https://yinglunz.com/" target="_blue">Prof. Yinglun Zhu</a>. Prior to that, I received my bachelor’s degree in Software Engineering from Shandong University. <a href="/_pages/CV.pdf" target="_blank">Download my Curriculum Vitae</a>. 
 
-
-My research focuses on <b>machine learning</b>, <b>foundation models</b>, and <b>artificial intelligence</b>. I'm especially interested in delving into the following research areas:
+My research focuses on <b>efficient and adaptive machine learning</b>, with a particular interest in <b>foundation models</b>. I'm especially interested in delving into the following research areas:
 
 - Active Learning (AL)
+- Test-Time Training (TTT)
 - Large Language Models (LLMs)
 - Multimodal Models
-- Efficient Machine Learning
+
+
 
 <div class="collab-board">
   <div class="collab-note">

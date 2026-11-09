@@ -356,6 +356,7 @@ Hefeng Meng, Zhiqiang Lin, Fan Yang, **Jiancheng Zhang**, Wei He, Yonghui Xu\*, 
 ### Journal Reviewer
 
 - Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026
+- Transactions on Machine Learning Research (TMLR), 2026
 
 <span class='anchor' id='-Talks'></span>
 
